@@ -1,8 +1,9 @@
 # Seongju Moon
 
-## Contriubutor of Kubernetes
+## Software Enginner. CLOUDMATE Inc.
 
-more interest kubernetes and container runtime
-Software Enginner, Public Cloud Environment
+Interested in Containers and Orchestration.
+Interested in protocol such as http3 and webtransport
+Interested in media such as h.264 AV Enconder
 
-
+TS/JS lover, Svelte lover etc.
