@@ -2,8 +2,8 @@
 
 ## Software Enginner. CLOUDMATE Inc.
 **Role**
-Covering On Develop and Operation Build and deploy that all of Software Development Lifecycle
-Co-working at Ops Team, support to assistant simple operation that mean to process customer skill support
+* Covering On Develop and Operation Build and deploy that all of Software Development Lifecycle
+* Co-working at Ops Team, support to assistant simple operation that mean to process customer skill support
 
 ### Certificated
  - [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/956acded-b748-473c-9ebd-fb2f2ef60b4c)
