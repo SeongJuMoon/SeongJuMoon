@@ -1,7 +1,7 @@
 # Seongju Moon
 
 ## Software Enginner. CLOUDMATE Inc.
-**Role**
+### Role
 * Covering On Develop and Operation Build and deploy that all of Software Development Lifecycle
 * Co-working at Ops Team, support to assistant simple operation that mean to process customer skill support
 
