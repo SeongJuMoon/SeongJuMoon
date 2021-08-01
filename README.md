@@ -14,3 +14,6 @@
 - Interested in protocol such as http3 and webtransport
 - Interested in media such as h.264 AV1 Encoder
 - Interested in CRD and Controller that managed kubernetes infrastructure
+
+### Publication
+[컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://www.yes24.com/Product/Goods/102099414)
