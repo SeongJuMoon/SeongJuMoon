@@ -1,4 +1,4 @@
-# Seongju Moon
+# Seongju Mun
 
 ## Software Engineer
 ### Role
