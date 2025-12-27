@@ -1,19 +1,12 @@
-# Seongju Mun
+# Seongju(Martin) Mun | Site Reliability / Platform Engineer (Kubernetes · Data)
+---
+I build automation-first infrastructure for reliable Kubernetes and database platforms at scale.
+I work on multi-cluster operations, CRD-based operators/controllers, distributed databases across regions, and data pipeline automation.
 
-## Software Engineer
-### Role
-* Covering On Develop and Operation Build and deploy that all of Software Development Lifecycle
-* Co-working at Ops Team, support to assistant simple operation that mean to process customer skill support
+- Focus: Kubernetes Platform · DB Reliability · Observability · CI/CD & Automation
+- Tech: Kubernetes, Terraform, ArgoCD, Prometheus/Grafana, Loki | Go, Python
+- Certs: CKA · Google Professional Cloud Architect
+- Interests: Kubernetes CRD/Controller, HTTP/3 & WebTransport, Media pipelines (H.264/AV1)
 
-### Certificated
- - [Certified Kubernetes Administrator](https://www.youracclaim.com/badges/956acded-b748-473c-9ebd-fb2f2ef60b4c)
- - [Google Professional Cloud Architect](https://www.credential.net/99a85c8f-805e-4802-b421-4f6eebe9c4a9)
-
-### Interested
-- Interested in Containers and Orchestration.
-- Interested in protocol such as http3 and webtransport
-- Interested in media such as h.264 AV1 Encoder
-- Interested in CRD and Controller that managed kubernetes infrastructure
-
-### Publication
-[컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://www.yes24.com/Product/Goods/102099414)
+Publication:
+- [『컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커』](https://product.kyobobook.co.kr/detail/S000001834629)
