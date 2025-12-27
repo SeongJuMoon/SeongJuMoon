@@ -1,4 +1,5 @@
-# Seongju(Martin) Mun | Site Reliability / Platform Engineer (Kubernetes · Data)
+# Seongju(Martin) Mun
+Site Reliability / Platform Engineer (Kubernetes · Data)
 ---
 I build automation-first infrastructure for reliable Kubernetes and database platforms at scale.
 I work on multi-cluster operations, CRD-based operators/controllers, distributed databases across regions, and data pipeline automation.
